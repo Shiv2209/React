@@ -185,30 +185,6 @@
       "comment": "Eat it, just eat it!",
       "author": "Michael Jaikishan",
       "date": "2015-02-13T17:57:28.556094Z"
-    },
-    {
-      "id": 18,
-      "dishId": 3,
-      "rating": 4,
-      "comment": "Ultimate, Reaching for the stars!",
-      "author": "Ringo Starry",
-      "date": "2013-12-02T17:57:28.556094Z"
-    },
-    {
-      "id": 19,
-      "dishId": 3,
-      "rating": 2,
-      "comment": "It's your birthday, we're gonna party!",
-      "author": "25 Cent",
-      "date": "2011-12-02T17:57:28.556094Z"
-    },
-    {
-      "dishId": 0,
-      "rating": "5",
-      "author": "Shiv",
-      "comment": "Uthappizza is awesome dish. it's so yummy",
-      "date": "2020-05-28T12:21:00.883Z",
-      "id": 20
     }
   ],
   "promotions": [
@@ -280,87 +256,6 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
-    },
-    {
-      "firstname": "Shiv Bhushan",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "please add some more dishes",
-      "date": "2020-05-29T08:18:55.647Z",
-      "id": 2
-    },
-    {
-      "firstname": "Shiv Bhushan",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan22091997@gmail.com",
-      "agree": true,
-      "contactType": "Email",
-      "message": "please show price of dishes",
-      "date": "2020-05-29T08:22:48.420Z",
-      "id": 3
-    },
-    {
-      "firstname": "Ajay Bhushan ",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "its really awesome website",
-      "date": "2020-05-29T08:24:32.578Z",
-      "id": 4
-    },
-    {
-      "firstname": "Shiv Bhushan",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "this is my first project",
-      "date": "2020-05-29T08:28:37.707Z",
-      "id": 5
-    },
-    {
-      "date": "2020-05-29T08:28:37.710Z",
-      "id": 6
-    },
-    {
-      "firstname": "Shiv Bhushan",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "this is my first project on React",
-      "date": "2020-05-29T08:52:43.295Z",
-      "id": 7
-    },
-    {
-      "firstname": "Ajay Bhushan ",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "this website is very very good ",
-      "date": "2020-05-29T08:55:44.793Z",
-      "id": 8
-    },
-    {
-      "firstname": "Ajay Bhushan ",
-      "lastname": "Sharma",
-      "telnum": "9634874608",
-      "email": "shivbhushan1714001@akgec.ac.in",
-      "agree": true,
-      "contactType": "Email",
-      "message": "awesomeeeeeeee",
-      "date": "2020-05-29T08:58:12.658Z",
-      "id": 9
     }
   ]
 }
